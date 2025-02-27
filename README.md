@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AADHIISHVAR
+- 👋 Hi, I’m AADHIISHVAR
 - 👀 I’m interested in JAVA BACKEND DEVELOPMENT 
 - 🌱 I’m currently learning OPEN CV(YOLO), DSA, PRIVATE/GENERATIVE AI, BLENDER ,DOCKER
 - 💞️ I’m looking to collaborate on FRONTEND DEVELOPMENT
