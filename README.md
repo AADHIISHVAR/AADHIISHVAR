@@ -1,4 +1,4 @@
-https://i.kym-cdn.com/photos/images/original/001/564/773/6cf.jpg
+![Alt text](https://i.kym-cdn.com/photos/images/original/001/564/773/6cf.jpg) 
 - 👋 Hi, I’m AADHIISHVAR
 - 👀 I’m interested in JAVA BACKEND DEVELOPMENT 
 - 🌱 I’m currently learning OPEN CV(YOLO), DSA, PRIVATE/GENERATIVE AI, BLENDER ,DOCKER
