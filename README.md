@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on FRONTEND DEVELOPMENT
 - 📫 How to reach me!? : "https://www.linkedin.com/in/aadhiishvar-k-a76133329"
 - 😄 Pronouns: he/him 
-- if it was easy, every one would do that to achieve it(web dev) 
+- if it was easy, every one would do that to achieve something which pays off their effort(web dev) 
 
 <!---
 AADHIISHVAR/AADHIISHVAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
